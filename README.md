@@ -1,5 +1,4 @@
-# ArxX
-TIENDA DE ROPA 
+
 # ArxX
 ## 
 
