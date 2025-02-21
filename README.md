@@ -25,5 +25,6 @@ Nuestros colaboradores son:
 - Renkari5000p
 - brando120012
 
-  
+Rol de el equipo:
+  ![Image](https://github.com/user-attachments/assets/3a8155b6-cf0a-4fe2-be79-538e8704b03a)
   
