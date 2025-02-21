@@ -20,3 +20,4 @@ Nuestros colaboradores son:
 - joel0530
 - j0b53
 - Renkari5000p
+- brando120012
