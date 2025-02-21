@@ -8,7 +8,7 @@
 
 
 <p align="left">
-> .[!NOTE]
+> .[!NOTE].
 
 > Aqui tienes una nota comprar de 2 prendas te damos el 45% de decuento
 
