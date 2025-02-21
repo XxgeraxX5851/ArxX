@@ -1,6 +1,16 @@
 
-# ArxX
-## 
+# tienda de ropa 
+
+<h1 align="center">Hi 👋  am brandon Ismael / brando120012 ✨ </h1> 
+
+<h2>sobre nosotros 🤖</h2>
+<!--Intro start-->
+
+
+<p align="left">
+pone la descripción 
+En este repositorio estoy tratando de hacer mi propio videojuego en python
+
 
 somos una marca de ropa que busca hacer diseños unicos para todos los consumidores  
 
