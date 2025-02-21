@@ -1,7 +1,7 @@
 
 # tienda de ropa 
 
-<h1 align="center">Hi 👋  hola consumidor bienvenido ala mejor tienda de ropa  / el equipo está conformado✨ </h1> 
+<h1 align="center">Hi 👋  hola consumidor bienvenido ala mejor tienda de ropa  /✨ </h1> 
 
 <h2>sobre nosotros 🤖</h2>
 <!--Intro start-->
@@ -11,6 +11,8 @@
 Somos una marca de ropa que busca hacer diseños unicos para todos los consumidores  
 
 Nuestra estás de calidad a un mejor precio
+
+Nuestros colaboradores son:
 
 - XxgeraxX5851
 - XxalexxX1705
