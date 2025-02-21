@@ -1,13 +1,7 @@
 
 # tienda de ropa 
 
-<h1 align="center">Hi 👋  hola consumidor bienvenido ala mejor tienda de ropa  / by XxgeraxX5851,
-brando120012,
-  XxalexxX1705
-dirsi136
-joel0530
-j0b53
-Renkari5000p ✨ </h1> 
+<h1 align="center">Hi 👋  hola consumidor bienvenido ala mejor tienda de ropa  / el equipo está conformado✨ </h1> 
 
 <h2>sobre nosotros 🤖</h2>
 <!--Intro start-->
