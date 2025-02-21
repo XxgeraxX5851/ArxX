@@ -8,7 +8,6 @@
 
 
 <p align="left">
-pone la descripción 
 Somos una marca de ropa que busca hacer diseños unicos para todos los consumidores  
 
 Nuestra estás de calidad a un mejor precio
