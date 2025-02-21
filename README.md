@@ -8,6 +8,9 @@
 
 
 <p align="left">
+> .[!NOTE]
+
+> Aqui tienes una nota comprar de 2 prendas te damos el 45% de decuento
 
 https://github.com/user-attachments/assets/2a452036-e79c-4d62-8006-c9c971533fb6
   
