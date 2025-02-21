@@ -1,7 +1,7 @@
 
 # tienda de ropa 
 
-<h1 align="center">Hi 👋  am brandon Ismael / brando120012 ✨ </h1> 
+<h1 align="center">Hi 👋  hola consumidor bienvenido ala mejor tienda de ropa  / brando120012 ✨ </h1> 
 
 <h2>sobre nosotros 🤖</h2>
 <!--Intro start-->
