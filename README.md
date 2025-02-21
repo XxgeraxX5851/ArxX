@@ -15,19 +15,11 @@ Nuestra ropa es de calidad a un mejor precio</h2>
 
 https://github.com/user-attachments/assets/2a452036-e79c-4d62-8006-c9c971533fb6
   
- 
 
 
 
-Nuestros colaboradores son:
 
-- XxgeraxX5851
-- XxalexxX1705
-- dirsi136
-- joel0530
-- j0b53
-- Renkari5000p
-- brando120012
+
 
 colaboradores y roles del equipo:
 
