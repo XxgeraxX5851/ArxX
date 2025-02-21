@@ -8,7 +8,8 @@
 
 
 <p align="left">
-Somos una marca de ropa que busca hacer diseños unicos para todos los consumidores  
+
+  ![Image](https://github.com/user-attachments/assets/0522fd87-7763-49fe-b48e-e9e3f8c9d605)Somos una marca de ropa que busca hacer diseños unicos para todos los consumidores  
 
 Nuestra estás de calidad a un mejor precio
 
