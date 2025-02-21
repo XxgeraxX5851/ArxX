@@ -9,10 +9,9 @@
 
 <p align="left">
 pone la descripción 
-En este repositorio estoy tratando de hacer mi propio videojuego en python
+Somos una marca de ropa que busca hacer diseños unicos para todos los consumidores  
 
-
-somos una marca de ropa que busca hacer diseños unicos para todos los consumidores  
+Nuestra estás de calidad a un mejor precio
 
 - XxgeraxX5851
 - XxalexxX1705
