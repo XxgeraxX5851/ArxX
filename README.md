@@ -1,7 +1,7 @@
 
 # tienda de ropa 
 
-<h1 align="center">Hi 👋  hola consumidor bienvenido al a mejor tienda de ropa  ✨ </h1> 
+<h1 align="center"> 👋  hola consumidor bienvenido al a mejor tienda de ropa  ✨ </h1> 
 
 <h2>sobre nosotros 🤖</h2>
 <!--Intro start-->
