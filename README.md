@@ -5,6 +5,7 @@
 
 <h2>sobre nosotros:
 
+
   Somos una marca de ropa que busca hacer diseños unicos para todos los consumidores
 
 Nuestra ropa es de calidad a un mejor precio </h2>
