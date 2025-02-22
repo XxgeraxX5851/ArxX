@@ -3,7 +3,7 @@
 
 <h1 align="center"> 👋  Hola consumidor bienvenido a la mejor tienda de ropa  ✨ </h1> 
 
-<h2>sobre nosotros:
+<h2>Sobre nosotros:
 
 
   Somos una marca de ropa que busca hacer diseños unicos para todos los consumidores
