@@ -26,3 +26,4 @@ colaboradores y roles del equipo:
 
   ![Image](https://github.com/user-attachments/assets/3a8155b6-cf0a-4fe2-be79-538e8704b03a)
   
+https://planningpokeronline.com/hRsJ2h1hMcb6Z1JTJbFw/
